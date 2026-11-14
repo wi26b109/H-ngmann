@@ -138,4 +138,4 @@ at least one feature of your description must be implemented (check mark at feat
 
 **Ergebnis:** Die beiden letzten Arbeitsaufträge wurden als Einträge 16 und 17 in dieses Prompt-Tagebuch aufgenommen.
 
-**Gelernt:** Auch Dokumentationsaufgaben gehören in das Prompt-Tagebuch, damit der vollständige Entwicklungsverlauf nachvollziehbar bleibt.
+**Gelernt:** Wie kann ich das automatisieren, dass er mir das Prompt-Dairy nach jedem neuem Prompt ergänzt? Auch Dokumentationsaufgaben gehören in das Prompt-Tagebuch, damit der vollständige Entwicklungsverlauf nachvollziehbar bleibt.
