@@ -55,3 +55,9 @@ Galgenmännchen-Spiel für die Konsole in Java. Details siehe `readme.md` und `f
 - Pro Schritt nur ein Feature aus `features.md` umsetzen
 - Code muss kompilieren und ohne Zusatzdateien laufen
 - Bei Unsicherheit nachfragen, statt ein verbotenes Feature zu benutzen
+
+## Prompt-Diary
+
+- Nach jeder Aufgabe einen neuen Eintrag am Ende von `prompt-diary.md` anhängen (vor "Noch offen"), mit der nächsten freien Nummer
+- Der Eintrag enthält: **Prompt** (mein Text wortwörtlich, nicht zusammengefasst), **Ergebnis** (was geändert wurde, in 1 bis 2 Sätzen) und **Gelernt** (was gelernt wurde, in 1 bis 2 Sätzen)
+- Bestehende Einträge nie ändern oder löschen
