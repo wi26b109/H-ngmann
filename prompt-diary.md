@@ -122,3 +122,20 @@ Hier steht, welche Prompts ich verwendet habe, was dabei herauskam und was ich d
 **Ergebnis:** Das vollständige Konsolenspiel wurde in `Haengmann.java` umgesetzt. Es enthält Themen, Schwierigkeitsgrade, zwei Lebensmodi, thematische Anzeigen, eigene Wörter mit Dateispeicherung sowie Eingabeprüfung.
 
 **Gelernt:** Ein großes Programm lässt sich auch mit einfachen Methoden und eindimensionalen Arrays in überschaubare Teilaufgaben aufteilen. Kommentare erklären dabei die Stellen, an denen Entscheidungen oder Dateizugriffe nicht sofort sichtbar sind.
+
+## Eintrag 16 – Bedienungsanleitung und Feature-Markierungen
+
+**Prompt:** manual.md explaining how to interact with the application
+at least one feature of your description must be implemented (check mark at feature in feature.md) mache bitte diese 2 Sachen sage mir bitte noch wo du in welcher zeile du es geändert hast dann
+
+**Ergebnis:** `manual.md` wurde mit einer deutschen Anleitung zur Bedienung der Konsolenanwendung erstellt. In `features.md` wurden die implementierten Features mit Häkchen markiert.
+
+**Gelernt:** Eine gute Bedienungsanleitung erklärt Menüs, Eingaben, Spielregeln und Sonderfälle. Häkchen in der Feature-Liste zeigen den Umsetzungsstand übersichtlich an.
+
+## Eintrag 17 – Letzte Prompts ins Tagebuch aufnehmen
+
+**Prompt:** füge noch die letzen prompts ins prompt dairy ein
+
+**Ergebnis:** Die beiden letzten Arbeitsaufträge wurden als Einträge 16 und 17 in dieses Prompt-Tagebuch aufgenommen.
+
+**Gelernt:** Auch Dokumentationsaufgaben gehören in das Prompt-Tagebuch, damit der vollständige Entwicklungsverlauf nachvollziehbar bleibt.
