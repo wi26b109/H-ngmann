@@ -1,5 +1,5 @@
 # Galgenmännchen – Themen-Edition
-# TEst test
+# Test
 
 **Autor:** Martha Staniszewski
 **Kurs:** Strukturierte Programmierung 1B1
