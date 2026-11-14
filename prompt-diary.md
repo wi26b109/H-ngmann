@@ -114,3 +114,11 @@ Hier steht, welche Prompts ich verwendet habe, was dabei herauskam und was ich d
 - Eintrag 12: Prompt für das Grundgerüst (Menü, Themenwahl)
 - Eintrag 13: Prompt für die Lebensanzeigen
 - Eintrag 14: Fehler/Probleme und wie sie gelöst wurden
+
+## Eintrag 15 – Vollständiges Spiel programmieren
+
+**Prompt:** so du hast alle daten erstelle mir jetzt das Spiel also halt den Code schreibe in den kommentaren was du machst
+
+**Ergebnis:** Das vollständige Konsolenspiel wurde in `Haengmann.java` umgesetzt. Es enthält Themen, Schwierigkeitsgrade, zwei Lebensmodi, thematische Anzeigen, eigene Wörter mit Dateispeicherung sowie Eingabeprüfung.
+
+**Gelernt:** Ein großes Programm lässt sich auch mit einfachen Methoden und eindimensionalen Arrays in überschaubare Teilaufgaben aufteilen. Kommentare erklären dabei die Stellen, an denen Entscheidungen oder Dateizugriffe nicht sofort sichtbar sind.
